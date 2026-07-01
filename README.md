@@ -1,0 +1,2 @@
+# Week-1-Internship-Task-Networking-Fundamentals-Network-Simulation-Tools
+This repository contains my Week 1 Network Administration Internship task at IT-Simplera Institute. It demonstrates networking fundamentals through Cisco Packet Tracer and GNS3 by building a basic LAN, configuring static IP addresses, and verifying connectivity using successful ping tests with complete documentation and project files.
