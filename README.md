@@ -1,4 +1,4 @@
-# Week 1 Internship Task-Networking Fundamentals Network Simulation Tools
+# Week 1 Internship Task-Networking Fundamentals And Network Simulation Tools
 Network Administration Internship Program at IT-Simplera Solutions 
 
 **Submitted by:** Hammad Zia
